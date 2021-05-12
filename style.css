@@ -1,16 +1,16 @@
 body{
-    background-color: #f6f6f6;
+    background-color: aliceblue;
 }
 
-#cover{
-    background-color: #ffffff;
+#container{
+    background-color: #a86565;
     margin: 5%;
     font-size: 16px;
     padding: 10px;
 }
 
 .header{
-    background-color: #ffe2e2;
+    background-color: #ffffff;
     min-height: 100px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -26,7 +26,7 @@ body{
     padding: 45px 25px 0 0;
 }
 .links li{
-    display: inline;
+    display:inline;
     padding-right: 10px;
 }
 
