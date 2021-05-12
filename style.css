@@ -3,7 +3,7 @@ body{
 }
 
 #container{
-    background-color: #a86565;
+    background-color: #eaeaea;
     margin: 5%;
     font-size: 16px;
     padding: 10px;
@@ -25,10 +25,6 @@ body{
     float: right;
     padding: 45px 25px 0 0;
 }
-.links li{
-    display:inline;
-    padding-right: 10px;
-}
 
 .body{
     display: flex;
@@ -41,7 +37,7 @@ body{
 }
 
 .side{
-    background-color: #eaeaea;
+    background-color: #ffffff;
     width: 30%;
     box-sizing: border-box;
     padding: 10px;
