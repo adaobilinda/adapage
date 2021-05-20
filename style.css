@@ -1,16 +1,16 @@
 body{
-    background-color: #f6f6f6;
+    background-color: aliceblue;
 }
 
-#cover{
-    background-color: #ffffff;
+#container{
+    background-color: #eaeaea;
     margin: 5%;
     font-size: 16px;
     padding: 10px;
 }
 
 .header{
-    background-color: #ffe2e2;
+    background-color: #ffffff;
     min-height: 100px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -25,10 +25,6 @@ body{
     float: right;
     padding: 45px 25px 0 0;
 }
-.links li{
-    display: inline;
-    padding-right: 10px;
-}
 
 .body{
     display: flex;
@@ -41,7 +37,7 @@ body{
 }
 
 .side{
-    background-color: #eaeaea;
+    background-color: #ffffff;
     width: 30%;
     box-sizing: border-box;
     padding: 10px;
