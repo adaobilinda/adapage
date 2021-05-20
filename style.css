@@ -2,6 +2,7 @@ body{
     background-color: aliceblue;
 }
 
+/*HEADER SECTION*/
 #container{
     background-color: #eaeaea;
     margin: 5%;
@@ -26,6 +27,7 @@ body{
     padding: 45px 25px 0 0;
 }
 
+/*HOMEPAGE SECTION*/
 .body{
     display: flex;
 }
@@ -54,6 +56,36 @@ body{
     padding: 10px;
 }
 
+/*CONTACT SECTION*/
+.contact{
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+/*ABOUT US SECTION*/
+.about{
+    display: flex;
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
+    margin: 10px 25px;
+}
+.left{
+    box-sizing: border-box;
+    width: 60%;
+    padding: 15px;
+    text-align: left;
+}
+.right{
+    box-sizing: border-box;
+    width: 40%;
+    padding: 10px;
+    font-size: 18px;
+}
+
+/*FOOTER SECTION*/
 #footer{
     min-height: 50px;
     background-color: #000000;
