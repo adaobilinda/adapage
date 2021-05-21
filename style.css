@@ -84,6 +84,10 @@ body{
     padding: 10px;
     font-size: 18px;
 }
+.picture img{
+    width: 400px;
+    height: 200px;
+}
 
 /*FOOTER SECTION*/
 #footer{
