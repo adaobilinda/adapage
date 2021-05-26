@@ -56,7 +56,7 @@ body{
     padding: 10px;
 }
 
-/*CONTACT SECTION*/
+/*CONTACT AND REGISTER SECTION*/
 .contact{
     border: 2px solid #ffffff;
     background-color: #ffffff;
@@ -64,7 +64,20 @@ body{
     margin: 10px auto;
     padding: 10px;
 }
-
+.form{
+    width: 80%;
+    margin: 20px auto;
+}
+.form input{
+    
+    margin: 10px;
+    width: 45%;
+    height: 30px;
+}
+.form2{
+    width: 80%;
+    margin: 20px auto;
+}
 /*ABOUT US SECTION*/
 .about{
     display: flex;
@@ -85,7 +98,7 @@ body{
     font-size: 18px;
 }
 .picture img{
-    width: 400px;
+    width: 320px;
     height: 200px;
 }
 
